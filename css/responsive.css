@@ -1,0 +1,476 @@
+
+@media screen and (min-width:0px) and (max-width:575px){
+    #top-header .left-content{
+        display: none;
+    }
+	nav.navbar{
+        display: block;
+    }
+    nav.navbar .fa{
+        color: #135da4;
+    }
+    #content-area a {
+        font-size: 18px;
+        line-height: 35px;
+    }
+    footer .soccial-icon ul > li {
+        margin-bottom: 30px;
+    }
+    .col-xs-5{
+        width: 40%;
+        text-align: left;
+    }
+    .col-xs-7{
+        width: 55%;
+        text-align: left;
+    }
+    .col-xs-6{
+        width: 50%;
+    }
+    .col-xs-12{
+        width: 100%;
+    }
+    footer .left-content-box {
+        text-align: left;
+    }
+	footer .footer-box .title {
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+	footer .left-content-box p {
+        margin-top: 25px;
+    }
+    #copyright-area .float-right{
+        float: left !important;
+    }
+    #question-area h2 {
+        font-size: 20px;
+        line-height: 30px;
+        margin-bottom: 30px;
+    }
+    #copyright-area .right-content ul > li > a {
+        line-height: 20px;
+    }
+    #copyright-area .right-content ul > li {
+        float: left;
+        margin-left: -15px;
+    }
+    #hosting-info .image img {
+        margin-top: 25px;
+    }
+    #get-started-area .right-content img {
+        margin-top: 25px;
+    }
+    #price-table .header h2 {
+        font-size: 2rem;
+        margin-top: 35px;
+    }
+
+    #hosting-info .header h2 {
+        font-size: 20px;
+        font-weight: 700;
+    }
+    #price-table .card {
+        margin-top: 0px;
+    }
+    #price-table .header h2 {
+        margin-bottom: 35px;
+    }
+
+    #testimonials-area .media {
+        padding: 0px 15px;
+    }
+    .table td, .table th{
+        border-top: 1px solid #fff;
+    }
+    .table thead th{
+        border-bottom: 1px solid #ddd;
+    }
+    .palatin-main-menu{
+        display: none;
+    }
+    #hosting-application-area .left-content img {
+        margin-left: 15%;
+    }
+    .table-bordered {
+        border: 1px solid #dee2e6;
+        border-top: 2px solid #dee2e6;
+        margin-top: 25px;
+    }
+    #hosting-application-area .media img {
+        width: 40px;
+        margin-right: 5px;
+    }
+    #hosting-application-area .media-body strong {
+        font-size: 18px;
+    }
+    #hosting-application-area .media-body span {
+        font-size: 18px;
+    }
+    #domain-search-area article {
+        padding: 30px 0px;
+    }
+    #domain-search-area article .input-group-text {
+        padding: 0px 26px;
+    }
+    #baner-section .content-area h2 {
+        font-size: 30px;
+    }
+    #baner-section .content-area p {
+        font-size: 18px;
+    }
+
+    #pricetable-up-area .sm-dnone{
+        display: none;
+    }
+    #pricetable-up-area .right-content-area {
+        margin-top: 25px;
+    }
+
+    #header-down .col-xs-6{
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+    #baner-down .mb-none{
+        display: none;
+    }
+    #baner-down .border-area{
+        border: none;
+    }
+    #copyright-area {
+        margin-top: -20px;
+    }
+    #question-area .xs-dnone{
+        display: none;
+    }
+    #question-area .support-area {
+        width: 100%;
+    }
+    #baner-section .content-area {
+        padding-top: 0px;
+    }
+    #hosting-info {
+        padding: 0px;
+        margin-top: -70px;
+    }
+    #pricetable-up-area .left-content-area ul{
+        margin-left: -10px;
+    }
+    #pricetable-up-area .left-content-area ul li {
+        padding: 0px 10px;
+        margin-left: 0px;
+        margin-right: 0px;
+        font-size: 14px;
+    }
+    #pricetable-up-area .left-content-area ul li{
+        border-right: none;
+    }
+    #hosting-application-area1 {
+        padding: 30px 0px;
+    }
+    #hosting-application-area2 {
+        padding: 30px 0px;
+    }
+    #hosting-application-area3 {
+        padding: 30px 0px;
+    }
+    #hosting-application-area1 .right-content table td {
+        font-size: 12px;
+    }
+    #hosting-application-area1 .right-content table img {
+        width: 15px;
+        margin-right: 0px;
+    }
+    #domain-categories .table .register {
+        font-size: 16px;
+    }
+    #domain-categories .table span {
+        margin-left: 0px;
+        padding: 2px 2px;
+        font-size: 12px;
+    }
+    #domain-categories .table .register {
+        padding: 8px 4px;
+        border-radius: 5px;
+        margin-left: -100px;
+        line-height: 31px;
+    }
+    #domain-categories .md-hidden{
+        display: none;
+    }
+    #service-header .left-content-area h2 {
+        font-size: 22px;
+    }
+    #service-header .right-content-area {
+        margin-top: 25px;
+    }
+    footer .about .title {
+        margin-top: 15px;
+        margin-bottom: -15px;
+    }
+    #baner-section .content-area h2 {
+        line-height: 35px;
+    }
+    nav.navbar-expand-lg .navbar-nav{
+        border-top: 1px solid #ddd;
+        margin-top: 5px;
+    }
+    nav.navbar-expand-lg .navbar-nav .nav-item {
+        border-top: 1px solid #ddd;
+    }
+    nav.navbar-expand-lg .navbar-nav .nav-item:first-child{
+        border: none;
+    }
+    nav.navbar-expand-lg .navbar-nav .nav-link {
+        padding: 5px 0px;
+    }
+    .dropdown .dropdown-menu .dropdown-box {
+        border-top: 1px solid #ddd;
+        border-bottom: none;
+    }
+    .dropdown .dropdown-menu {
+        width: 100%;
+        border: none;
+    }
+    #baner-down span {
+        font-size: 16px;
+    }
+    #baner-down .view-all {
+        margin-left: 7px;
+        font-size: 14px;
+        padding: 3px 5px;
+    }
+    #header-down .card-body a{
+        text-align: center;
+    }
+}
+@media screen and (min-width:576px) and (max-width:767px){
+    #top-header .left-content{
+        display: none;
+    }
+    .col-xs-6{
+        width: 50%;
+    }
+    footer .soccial-icon ul > li {
+        margin-bottom: 30px;
+    }
+    #copyright-area .right-content ul > li > a {
+        padding: 5px;
+        font-size: 14px;
+    }
+    #content-area a {
+        font-size: 12px;
+    }
+    #question-area .support-area span {
+        font-size: 12px;
+    }
+    #question-area h2 {
+        font-size: 16px;
+        line-height: 35px;
+        font-weight: 600;
+    }
+    #get-started-area .right-content img {
+        margin-top: 25px;
+    }
+    #price-table .card-body h4 {
+        margin-left: 45px;
+        margin-right: 45px;
+    }
+    #domain-search-area article {
+        padding: 30px 50px;
+    }
+    #hosting-info .image img {
+        margin-top: 25px;
+    }
+    .table td, .table th{
+        border-top: 1px solid #fff;
+    }
+    .table thead th{
+        border-bottom: 1px solid #ddd;
+    }
+    #price-table .card {
+        margin-top: 0px;
+    }
+    #price-table .header h2 {
+        margin-bottom: 35px;
+    }
+    .palatin-main-menu{
+        display: none;
+    }
+    #hosting-application-area .left-content img {
+        margin-left: 25%;
+    }
+    .table-bordered {
+        border: 1px solid #dee2e6;
+        border-top: 2px solid #dee2e6;
+        margin-top: 25px;
+    }
+    #testimonials-area .media {
+        padding: 0px 15px;
+    }
+    footer .left-content-box p {
+        margin-top: 25px;
+    }
+
+    #baner-section .content-area h2 {
+        font-size: 30px;
+    }
+    #baner-section .content-area p {
+        font-size: 18px;
+    }
+    #pricetable-up-area .left-content-area ul li{
+        border-right: none;
+    }
+    #pricetable-up-area .left-content-area h2 {
+        font-size: 29px;
+    }
+    #pricetable-up-area .right-content-area h2 {
+        font-size: 16px;
+    }
+    #baner-down .mb-none{
+        display: none;
+    }
+    #baner-down .border-area{
+        border: none;
+    }
+    #question-area .support-area {
+        width: 80%;
+    }
+    #domain-search-area article {
+        padding: 30px 50px;
+    }  
+    #service-header .left-content-area h2 {
+        font-size: 22px;
+    }
+    footer .about .title {
+        margin-top: 15px;
+        margin-bottom: -15px;
+    }
+    nav.navbar-expand-lg .navbar-nav{
+        border-top: 1px solid #ddd;
+        margin-top: 5px;
+    }
+    nav.navbar-expand-lg .navbar-nav .nav-item {
+        border-top: 1px solid #ddd;
+    }
+    nav.navbar-expand-lg .navbar-nav .nav-item:first-child{
+        border: none;
+    }
+    nav.navbar-expand-lg .navbar-nav .nav-link {
+        padding: 5px 0px;
+    }
+    .dropdown .dropdown-menu .dropdown-box {
+        border-top: 1px solid #ddd;
+        border-bottom: none;
+    }
+    .dropdown .dropdown-menu {
+        width: 100%;
+        border: none;
+    }
+    #header-down .card-body .starting-at {
+        font-size: 12px;
+    }
+    #header-down .card-body .starting-at span {
+        font-size: 16px;
+    }
+    
+}
+@media screen and (min-width:768px) and (max-width:991px){
+    .testimonial p{
+        font-size: 14px;
+    }
+    #testimonials-area .quote-right {
+        margin-top: -25px;
+    }
+    footer .left-content-box ul > li > a {
+        font-size: 13px;
+    }
+    #price-table .card-body h4 {
+        margin-left: 35px;
+        margin-right: 35px;
+        font-size: 14px;
+    }
+    .carousel-control-next {
+        right: 466px;
+    }
+    #top-header .carousel-inner {
+        margin-left: 19%;
+    }
+    .palatin-main-menu{
+        display: none;
+    }
+    #hosting-application-area .left-content img {
+        margin-left: 12%;
+    }
+    #hosting-application-area .right-content table img {
+        width: 18px;
+    }
+    #hosting-application-area .right-content table td {
+        font-size: 12px;
+    }
+    #baner-section .content-area h2 {
+        font-size: 37px;
+    }
+    #pricetable-up-area .left-content-area ul{
+        margin-left: -10px;
+    }
+    #pricetable-up-area .left-content-area ul li {
+        padding: 0px 10px;
+        margin-left: 0px;
+        margin-right: 0px;
+        font-size: 12px;
+    }
+    #baner-section {
+        height: 450px;
+    }
+    #baner-section .content-area {
+        padding-top: 80px;
+        margin-bottom: 0px;
+    }
+    #hosting-application-area1 .right-content table img {
+        width: 24px;
+        margin-right: 0px;
+    }
+    #hosting-application-area1 .right-content table td {
+        font-size: 12px;
+    } 
+    nav.navbar-expand-lg .navbar-nav{
+        border-top: 1px solid #ddd;
+        margin-top: 5px;
+    }
+    nav.navbar-expand-lg .navbar-nav .nav-item {
+        border-top: 1px solid #ddd;
+    }
+    nav.navbar-expand-lg .navbar-nav .nav-item:first-child{
+        border: none;
+    }
+    nav.navbar-expand-lg .navbar-nav .nav-link {
+        padding: 5px 0px;
+    }
+
+    .dropdown .dropdown-menu .dropdown-box {
+        border-top: 1px solid #ddd;
+        border-bottom: none;
+    }
+    .dropdown .dropdown-menu {
+        width: 100%;
+        border: none;
+    }
+}
+@media screen and (min-width:992px) and (max-width:1199px){
+    .dropdown:hover .dropdown-menu {
+        display: block;
+        width: 250px;
+        top: 96%;
+        padding: 15px 0px;
+    } 
+}
+@media (min-width:1200px){
+    .dropdown:hover .dropdown-menu {
+        display: block;
+        width: 250px;
+        top: 96%;
+        padding: 15px 0px;
+    }
+    
+}
